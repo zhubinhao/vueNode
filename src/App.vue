@@ -28,7 +28,7 @@ button{
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
   padding: 0;
-  margin: 0;
+  margin: 0 ;
 
 }
 </style>
