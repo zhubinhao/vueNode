@@ -64,10 +64,6 @@ export default {
 };
 </script>
 <style scoped  lang="scss">
-.v-note-wrapper .v-note-panel.shadow {
-    border: none;
-    box-shadow: 0 0px 0px rgba(0,0,0,0.157), 0 0px 0px rgba(0,0,0,0.227);
-}
 .index {
   position: absolute;
   left: 0;
@@ -80,7 +76,6 @@ export default {
   .left {
     width: 30%;
   }
-  
   .right {
     width: 70%;
     position: relative;
